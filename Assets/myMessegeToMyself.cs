@@ -8,5 +8,6 @@ public class myMessegeToMyself : MonoBehaviour {
 
 	void Start(){
 		print ("But wait there is more");
+		print ("And more and more");
 	}
 }
